@@ -5,3 +5,4 @@ Usange:
 Run the remover.exe file in cmd.
 Whan the software is running enter "help".
 Than the usage of software will showed up.
+coming soon.......
